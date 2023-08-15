@@ -14,8 +14,7 @@ My name is Tomas Ferro and ... <br/>
 👉 You can reach me at tomasferro29@gmail.com<br/>
 👉 You can see what I can do <a href="https://ecomerce-admin.vercel.app/">here</a> and <a href="https://pf-front-phi.vercel.app/">here</a><br/> 
 
-<hr/>
-<b>Languages and Tools:</b><br/><br/>
+<h1>Languages and Tools:</h1><br/>
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <b>HTML - XML</b>
 <br/>
@@ -39,8 +38,6 @@ My name is Tomas Ferro and ... <br/>
 <br/>
 <a href="https://github.com/tomasferro29" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <b>GitHub</b>
 <br/>
-
-<hr/>
 
 <h1>Latest Project</h1><br/>
 
