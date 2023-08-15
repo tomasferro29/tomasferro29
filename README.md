@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tomas</h1>
 
 
-[![-----------------------------------------------------](
+
 <b>Welcome !! </b><br/>
 Some things about me :<br/>
 :one: JavaScipt developer<br/>
