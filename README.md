@@ -1,5 +1,5 @@
 
-<img align ="center" src="https://www.todofondos.net/wp-content/uploads/hq-todofondos-4KparaPC24.jpg" alt="tomas">
+<img align ="center" src="Captura de pantalla 2023-08-15 195322.png" alt="tomas">
 <h1 align="center">Hi 👋, I'm Tomas</h1>
 
 
