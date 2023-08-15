@@ -2,6 +2,7 @@
 <img align ="center" src="https://www.todofondos.net/wp-content/uploads/hq-todofondos-4KparaPC24.jpg" alt="basemax">
 <h1 align="center">Hi 👋, I'm Tomas</h1>
 
+<hr/>
 <b>Welcome to my GitHub page !! </b><br/>
 My name is Tomas Ferro and ... <br/>
 👉 I'm a Full stack developer, specialized in Node JS and JavaScript <br/>
