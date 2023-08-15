@@ -40,17 +40,21 @@ My name is Tomas Ferro and ... <br/>
 <a href="https://github.com/tomasferro29" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <b>GitHub</b>
 <br/>
 
+<hr/>
+
+<h1>Latest Project</h1><br/>
+
+<div display=flex>
+<img align ="center" src="dogs.png" alt="tomas" width='200' height='200'>
+<img align ="center" src="dogs1.png" alt="tomas" width='200' height='200'>
+<img align ="center" src="dogs2.png" alt="tomas" width='200' height='200'>
+<img align ="center" src="dogs4.png" alt="tomas" width='200' height='200'>
+<img align ="center" src="dogspng.png" alt="tomas" width='200' height='200'>
+<img align ="center" src="dogscreate.png" alt="tomas" width='200' height='200'>
+<a href="https://github.com/tomasferro29/Individual-Project-Dogs-Fullstack">Project</a>
+</div>
 
 
-<br>
-<b>Favourite Frameworks:</b><br/>
-<ul>
-  <li>React</li>
-  <li>Styled-Components</li>
-  <li>SQL</li>
-  <li>postgreSQL</li>
-  <li>MongoDB</li>
-</ul>
 <!--
 **tomasferro29/tomasferro29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
