@@ -1,19 +1,17 @@
 
-<img align ="center" border="10px solid red" src="https://www.todofondos.net/wp-content/uploads/hq-todofondos-4KparaPC24.jpg" alt="basemax">
+<img align ="center" src="https://www.todofondos.net/wp-content/uploads/hq-todofondos-4KparaPC24.jpg" alt="basemax">
 <h1 align="center">Hi 👋, I'm Tomas</h1>
-
-
 
 <b>Welcome !! </b><br/>
 Some things about me :<br/>
-:one: JavaScipt developer<br/>
-:two: Full stack developer.<br/>
-:three: Proficient with JavaScript and CSS.<br/> 
-:four: Been part in many areas of programming like Web Development and server-side programming.<br/>
-:five: I’m currently looking for a job in IT. <br/> 
-:six: Working on my Main project - <a href="https://github.com/tomasferro29/pf-front">e-commerce</a><br/>
-:seven: How to reach me : Mail me at tomasferro29@gmail.com<br/>
-:eight: You can see what I can do: <a href="https://ecomerce-admin.vercel.app/">here</a> and <a href="https://pf-front-phi.vercel.app/">here</a><br/> 
+👉 JavaScipt developer<br/>
+👉 Full stack developer.<br/>
+👉 Proficient with JavaScript and CSS.<br/> 
+👉 Been part in many areas of programming like Web Development and server-side programming.<br/>
+👉 I’m currently looking for a job in IT. <br/> 
+👉 Working on my Main project - <a href="https://github.com/tomasferro29/pf-front">e-commerce</a><br/>
+👉 How to reach me : Mail me at tomasferro29@gmail.com<br/>
+👉 You can see what I can do: <a href="https://ecomerce-admin.vercel.app/">here</a> and <a href="https://pf-front-phi.vercel.app/">here</a><br/> 
 
 
 
